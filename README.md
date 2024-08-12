@@ -1,4 +1,4 @@
-## MindMesh
+# MindMesh
 A MindMesh is an social media application. It is completely working project. Its' completely responsive application.
 MongoDB Express React Redux NodeJs are user in this project.
 
@@ -33,7 +33,7 @@ MongoDB Express React Redux NodeJs are user in this project.
 
 
 
-   **Admin features:**
+**Admin features:**
    
 
  - admin panel shows total number of post ,users,reported posts etc.
@@ -79,5 +79,18 @@ MongoDB Express React Redux NodeJs are user in this project.
 
 ![explore page](https://user-images.githubusercontent.com/72184791/114161321-8a7a5c00-9945-11eb-8c67-bf42a8f30fcd.JPG)
 
+## Authors
 
+- [@VarshiRevo](https://github.com/VarshiRevo)
+
+## Support
+
+For support,
+Email :
+varshigaps04.ai@gmail.com
+
+OR
+
+Join our Slack channel:
+https://join.slack.com/t/team-revoshared_invitezt-23bhnca2e-VEbQiDF8c~1hUYVjsNa06Q
 
